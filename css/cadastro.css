@@ -1,0 +1,23 @@
+body{
+    background-color:#0B0726;
+    color:white;}
+#btnconta{
+    background-color: #28304F;
+    color: black;
+    border-radius: 20px;
+    width: 180px;
+    height: 35px;
+    margin-left: 30%;}
+
+#nome{
+margin-top: 10px;}
+
+#email{
+    margin-top: 10px;}
+
+#pwd{
+    margin-top: 10px;}
+
+#confirpwd{
+    margin-top: 10px;}
+
